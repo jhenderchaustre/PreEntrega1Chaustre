@@ -5,7 +5,7 @@ import ItemListContainer from "./components/ItemListContainer";
   return (
   <div style={{width: '100vw', height: '100vh'}}>
     <NavBar/>
-    <ItemListContainer />
+    <ItemListContainer greeting="Bienvenidos a Rhino Store®"/>
   </div>
   )
 }

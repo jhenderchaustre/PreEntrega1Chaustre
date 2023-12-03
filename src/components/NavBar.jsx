@@ -8,7 +8,7 @@ const NavBar = () => {
     return (
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
-          <Navbar.Brand href="#home">Rhino Store® <img src="" alt="" /></Navbar.Brand>
+          <Navbar.Brand href="#home">Rhino Store®</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
